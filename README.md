@@ -1,5 +1,6 @@
 # BrainTumour-Segmentation-Unet
 
+### Link to trained Model : https://drive.google.com/file/d/1JHJu8-UA3ULITK-_Xf_NvpT8Ay4gL9MY/view?usp=share_link
 ### Imaging Data Description
 1. All BraTS multimodal scans were available as NIfTI files (.nii.gz) having different modalitied:-
   - Native (T1) 
